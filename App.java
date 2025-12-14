@@ -16,5 +16,11 @@ class Auto {
         public void jarruta() {
             System.out.println("Auto jarruttaa.");
         }
+        public void tulostaTiedot() {
+        System.out.println("Merkki: " + merkki);
+        System.out.println("Malli: " + malli);
+        System.out.println("Bensan määrä: " + bensanMaara);
+    }
 
 }
+
