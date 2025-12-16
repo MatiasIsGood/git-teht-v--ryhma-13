@@ -1,6 +1,6 @@
 public class App {
     public static void main(String[] args) throws Exception {
-        
+        Auto auto1 = new Auto();
     }
 } // Appin loppu
 
